@@ -1,5 +1,4 @@
-<h1 align="center">¡Hola, constructor de sueños digitales! 👋🌈 Maria Isabel Durango</h1>
-<h3 align="center">una soñadora apasionada por la tecnología. Front-End Developer, Bienvenid@ a mi taller virtual donde la imaginación cobra vida y los sueños se transforman en realidad en la web. Soy el creadora de mundos en línea, y juntos podemos construir sitios web mágicos, aplicaciones sorprendentes y experiencias digitales maravilosas. ¿Estás listo/a para que juntos hagamos realidad las ideas más brillantes? . ¡Únete a mí en esta aventura tech!🚀 #Curiosa #Apasionada #Storyteller#soñadora</h3>
+<h3 align="center">¡Hola! Soy Maria Isabel una soñadora apasionada por la tecnología. Front-End Developer, Bienvenid@ a mi taller virtual donde la imaginación cobra vida y los sueños se transforman en realidad en la web. Soy el creadora de mundos en línea, y juntos podemos construir sitios web mágicos, aplicaciones sorprendentes y experiencias digitales maravilosas. ¿Estás listo/a para que juntos hagamos realidad las ideas más brillantes? . ¡Únete a mí en esta aventura tech!🚀 #Curiosa #Apasionada #Storyteller#soñadora</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
