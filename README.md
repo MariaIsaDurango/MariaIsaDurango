@@ -1,5 +1,5 @@
 <div align="center">
-<img src="file:///C:/Users/duran/OneDrive/Escritorio/=3/m9rdw4gf76b31.png" align="center" style="width: 100%" />
+  <img src="file:///C:/Users/duran/OneDrive/Escritorio/=3/m9rdw4gf76b31.png" align="center" style="width: 100%" />
 </div>  
   
 
@@ -11,15 +11,6 @@
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
-
-
-
-
-
-
-
 <div align="center" style="display: flex;">
   <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>
@@ -32,8 +23,6 @@
   <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="25" /></a>
   <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>
 </div>
-
-
 </td></tr></table>  
 
 <br/>  
@@ -61,14 +50,6 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
 
 <br/>  
 
