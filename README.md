@@ -1,13 +1,40 @@
-<h1 align="center">¡Hola, constructor de sueños digitales! 👋🌈</h1>
-<h3 align="center">Soy María Isabel Durango, una soñadora apasionada por la tecnología. Soy Front-End Developer. ¡Bienvenid@ a mi taller virtual, donde la imaginación cobra vida y los sueños se transforman en realidad en la web! Soy la creadora de mundos en línea, y juntos podemos construir sitios web mágicos, aplicaciones sorprendentes y experiencias digitales maravillosas. ¿Estás listo/a para que, juntos, hagamos realidad las ideas más brillantes? ¡Únete a mí en esta aventura tech! 🚀 #Curiosa #Apasionada #Storyteller #soñadora</h3>
+# ¡Hola! Soy María Isabel Durango 👋
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+Python Developer en formación, enfocada en **backend, automatización de datos e IA**. Vengo de una trayectoria de más de 7 años en atención al cliente, administración y, más recientemente, consultoría tecnológica con gestión de datos y CRM (Salesforce Marketing Cloud). Ahora estoy construyendo un stack técnico en Python, ETL, APIs y análisis de datos para dar el salto a desarrollo/datos.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@mariaidurango" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mariaidurango" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mariaisadurango" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariaisadurango" height="30" width="40" /></a>
-<a href="https://instagram.com/erzsebet1219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="erzsebet1219" height="30" width="40" /></a>
-</p>
+🎓 Actualmente en el Bootcamp de Inteligencia Artificial (Somos F5) y el Tecnólogo en Análisis y Desarrollo de Software (SENA).
+🎯 Buscando mi primera oportunidad como **Python Developer / Analista de Datos Junior**.
 
+---
+
+## 🛠️ Habilidades
+
+**Lenguajes y librerías:** Python · Pandas · NumPy · SQL · HTML · CSS · JavaScript · Node.js
+**Datos y automatización:** ETL · Web Scraping · REST APIs · Salesforce Marketing Cloud
+**Herramientas:** Git · GitHub · VS Code · Google Colab · Power BI · Trello · Notion
+
+---
+
+## 🚀 Proyectos destacados
+
+### 1. [PyClima_Resiliente](https://github.com/MariaIsaDurango/PyClima_Resiliente)
+Aplicación en Python para gestionar, validar y analizar datos climáticos, mejorando su acceso y calidad para análisis posteriores.
+**Tecnologías:** Python · Pandas · Visualización de datos
+
+### 2. [Próximo proyecto: Pipeline ETL]
+*(en construcción)* — Automatización de extracción, transformación y carga de datos desde una API pública.
+**Tecnologías:** Python · SQL · APIs REST
+
+### 3. [Próximo proyecto: Web Scraper + Dashboard]
+*(en construcción)* — Scraping de datos web y visualización en un dashboard interactivo.
+**Tecnologías:** Python · Web Scraping · Power BI
+
+> 💡 Próximos pasos: sumar 2-3 proyectos más aquí (limpieza de datos, ML básico, dashboard) para mostrar variedad de principio a fin.
+
+---
+
+## 📫 Contacto
+
+- LinkedIn: [linkedin.com/in/mariaisadurango](https://www.linkedin.com/in/mariaisadurango)
+- Email: mdurango1130@gmail.com
+- GitHub: [@MariaIsaDurango](https://github.com/MariaIsaDurango)
