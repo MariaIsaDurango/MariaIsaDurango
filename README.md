@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! Soy María Isabel Durango 👋</h1>
-<h3 align="center">Python Developer | IA & Backend | Analista de Datos</h3>
+<h3 align="center">Python Developer | IA & Backend | Analista de Datos | Salesforce Marketing Cloud | ETL • APIs • SQL</h3>
 
 <p align="center">
 Apasionada por transformar datos en decisiones. Actualmente en formación en Inteligencia Artificial y Desarrollo de Software (Somos F5 · SENA), construyendo un stack en Python orientado a backend, automatización y análisis de datos.
@@ -12,7 +12,7 @@ Apasionada por transformar datos en decisiones. Actualmente en formación en Int
 - 🔭 Actualmente formándome en el **Bootcamp de Inteligencia Artificial (Somos F5, 1250h)** y el **Tecnólogo en Análisis y Desarrollo de Software (SENA)**
 - 🌱 Construyendo un stack en **Python, SQL, ETL y APIs REST**
 - 💼 7+ años de experiencia previa en atención al cliente, administración y consultoría tecnológica con **CRM y gestión de datos (Salesforce Marketing Cloud)**
-- 🎯 Buscando mi primera oportunidad como **Python Developer / Analista de Datos Junior**
+- 🎯 Buscando mi primera oportunidad como **Python Developer / Analista de Datos Junior o Abierta a para seguir creciendo como Salesforce Developer dentro del ecosistema Salesforce**
 - 💬 Pregúntame sobre análisis de datos, automatización o mi transición hacia tech
 
 ---
