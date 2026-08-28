@@ -15,7 +15,7 @@
 
 ## 🎯 En una frase
 
-> De **7+ años gestionando CRM y datos de clientes** a **construir el backend, la automatización y el análisis** que dan sentido a esos datos. Formándome en IA y desarrollo de software, con la mirada puesta en mi primer rol como **Python Developer / Data Analyst Jr.**
+> De más de **7 años en atención al cliente y administración** —con una etapa reciente en consultoría tecnológica gestionando **CRM y datos (Salesforce Marketing Cloud)**— a **construir el backend, la automatización y el análisis** que dan sentido a esos datos. Formándome en IA y desarrollo de software, con la mirada puesta en mi primer rol como **Python Developer / Data Analyst Jr.**
 
 ---
 
@@ -26,7 +26,7 @@ class MariaIsabelDurango:
     def __init__(self):
         self.rol_actual = "Estudiante IA & Desarrollo de Software"
         self.formacion = ["Somos F5 · Bootcamp IA (1250h)", "SENA · Tecnólogo ADSI"]
-        self.experiencia_previa = "7+ años en CRM, atención al cliente y consultoría (Salesforce Marketing Cloud)"
+        self.experiencia_previa = "7+ años en atención al cliente y administración, incluyendo una etapa reciente en consultoría con CRM (Salesforce Marketing Cloud)"
         self.stack = ["Python", "SQL", "ETL", "APIs REST", "Pandas", "Power BI"]
         self.buscando = "Oportunidad como Python Developer / Analista de Datos Jr."
         self.plus = "Ecosistema Salesforce (CRM + datos = mi combinación natural)"
@@ -86,34 +86,34 @@ class MariaIsabelDurango:
 <tr>
 <td width="50%">
 
-### 🌦️ [PyClima_Resiliente](https://github.com/MariaIsaDurango/PyClima_Resiliente)
-Aplicación en Python para **gestionar, validar y analizar datos climáticos**, mejorando la calidad de los datos disponibles para análisis posteriores.
+### 🏥 [SanartAPI](https://github.com/MariaIsaDurango/sanart-platform-api)
+**Proyecto propio, en curso.** API backend desarrollada en solitario, como ejercicio de diseño y construcción de servicios desde cero.
 
-`Python` `Pandas` `Validación de datos` `Visualización`
+`Python` `Backend` `API`
 
 </td>
 <td width="50%">
 
-### 🔄 Pipeline ETL *(en construcción)*
-Automatización del proceso de **extracción, transformación y carga** de datos desde una API pública, pensado como base para pipelines reales de negocio.
+### 🏦 [DataScope Bank Marketing](https://github.com/MariaIsaDurango/datascope-bank-marketing)
+**Proyecto propio.** Modelo de Machine Learning que predice si un cliente bancario contratará un depósito a plazo fijo tras una campaña de telemarketing, permitiendo optimizar campañas y reducir costos operativos.
 
-`Python` `SQL` `APIs REST`
+`Python` `Machine Learning` `Data Science`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 📊 Web Scraper + Dashboard *(en construcción)*
-**Scraping de datos web** con visualización en un dashboard interactivo para facilitar la toma de decisiones.
+### 🌦️ [PyClima_Resiliente](https://github.com/MariaIsaDurango/PyClima_Resiliente)
+**Proyecto en colaboración.** Aplicación en Python para gestionar, validar y analizar datos climáticos, mejorando la calidad de los datos disponibles para análisis posteriores.
 
-`Python` `Web Scraping` `Power BI`
+`Python` `Pandas` `Validación de datos` `Visualización`
 
 </td>
 <td width="50%" valign="middle" align="center">
 
 **💡 Próximamente**
-Sumando 2-3 proyectos más: limpieza avanzada de datos, ML básico y dashboards de negocio.
+Sumando nuevos proyectos: limpieza avanzada de datos, dashboards de negocio y más ML aplicado.
 
 </td>
 </tr>
@@ -136,16 +136,12 @@ Sumando 2-3 proyectos más: limpieza avanzada de datos, ML básico y dashboards 
 
 ## 🤝 ¿Trabajamos juntos?
 
-Estoy **disponible y en búsqueda activa** de mi primera oportunidad como Python Developer o Analista de Datos Jr., con interés especial en equipos que trabajen con **Salesforce**. Si tu empresa busca a alguien que combine visión de negocio con capacidad técnica, hablemos.
+Estoy **disponible y en búsqueda activa** de mi primera oportunidad como Python Developer o Analista de Datos Jr., con interés especial en equipos que trabajen con **Salesforce**. Si tu empresa busca a alguien que combine capacidad analítica, autonomía y ganas reales de aprender, hablemos.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hablemos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariaisadurango)
-[![GitHub](https://img.shields.io/badge/GitHub-Ver_proyectos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MariaIsaDurango)
-[![Gmail](https://img.shields.io/badge/Email-Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdurango1130@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariaisadurango)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MariaIsaDurango)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdurango1130@gmail.com)
 
-</div>
-
-<div align="center">
-<sub>💬 "El aprendizaje continuo es mi mejor herramienta de transición hacia tech."</sub>
 </div>
