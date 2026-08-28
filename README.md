@@ -121,19 +121,6 @@ Sumando nuevos proyectos: limpieza avanzada de datos, dashboards de negocio y m�
 
 ---
 
-## 📈 Actividad en GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MariaIsaDurango&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaIsaDurango&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MariaIsaDurango&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 🤝 ¿Trabajamos juntos?
 
 Estoy **disponible y en búsqueda activa** de mi primera oportunidad como Python Developer o Analista de Datos Jr., con interés especial en equipos que trabajen con **Salesforce**. Si tu empresa busca a alguien que combine capacidad analítica, autonomía y ganas reales de aprender, hablemos.
